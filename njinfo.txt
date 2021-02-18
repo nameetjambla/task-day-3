@@ -1,0 +1,5 @@
+name:nameet jambla
+class:10.10.15.16
+age:45
+hello world
+nohing much
